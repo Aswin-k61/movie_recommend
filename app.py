@@ -88,9 +88,9 @@ session.headers.update({
 })
 
 # -------------------- Load Data --------------------
-movies = pickle.load(open('movies.pkl', 'rb'))
-semantic_vectors = pickle.load(open('semantic_vectors.pkl', 'rb'))
-tfidf_vectors = pickle.load(open('tfidf_vectors.pkl', 'rb'))
+movies = pickle.load(open('models/movies.pkl', 'rb'))
+semantic_vectors = pickle.load(open('models/semantic_vectors.pkl', 'rb'))
+tfidf_vectors = pickle.load(open('models/tfidf_vectors.pkl', 'rb'))
 
 # -------------------- Fetch Movie Details --------------------
 @st.cache_data

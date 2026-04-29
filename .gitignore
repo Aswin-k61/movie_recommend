@@ -1,12 +1,16 @@
-# Virtual environment
-venv/
-
 # Python cache
 __pycache__/
 *.pyc
 
-# ML model files
-*.pkl
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# Environment files
+# Environment variables (API keys, secrets)
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
