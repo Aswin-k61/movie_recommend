@@ -11,6 +11,7 @@ This is a movie recommendation system built using machine learning techniques. I
 - Python
 - Pandas
 - Scikit-learn
+- Streamlit
 
 ## 📂 Dataset
 
