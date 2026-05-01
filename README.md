@@ -13,6 +13,12 @@ This is a movie recommendation system built using machine learning techniques. I
 - Scikit-learn
 - Streamlit
 
+## 📸 Screenshots
+<img width="1874" height="859" alt="Screenshot 2026-04-29 161455" src="https://github.com/user-attachments/assets/96554558-26c7-46d9-ab62-10892bf80464" />
+<img width="1862" height="906" alt="Screenshot 2026-04-29 161705" src="https://github.com/user-attachments/assets/8baced3d-a78e-4406-87ac-65e3c7310d78" />
+
+
+
 ## 📂 Dataset
 
 This project uses the TMDB Movies Dataset from Kaggle:
