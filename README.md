@@ -12,6 +12,19 @@ This is a movie recommendation system built using machine learning techniques. I
 - Pandas
 - Scikit-learn
 
+## 📂 Dataset
+
+This project uses the TMDB Movies Dataset from Kaggle:
+
+👉 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+Files used:
+- movies_metadata.csv
+- credits.csv
+- keywords.csv
+
+Note: Large files like `ratings.csv` were not used.
+
 ## 📦 Installation
 ```bash
 pip install -r requirements.txt
